@@ -1,0 +1,1 @@
+files_dir = "C:\Users\makar\ApacheLogsParser\Logi.txt"

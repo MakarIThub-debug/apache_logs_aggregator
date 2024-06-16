@@ -1,0 +1,6 @@
+192.168.2.20 - - [28/Jul/2006:10:27:10 -0300] "GET /cgi-bin/try/ HTTP/1.0" 200 3395
+127.0.0.1 - - [28/Jul/2006:10:22:04 -0300] "GET / HTTP/1.0" 200 2216
+127.0.0.1 - frank [10/Oct/2000:13:55:36 -0700] "GET /apache_pb.gif HTTP/1.0" 200 2326
+193.34.12.132 - - [20/Oct/2011:12:46:08 +0400] "GET /bitrix/js/main/core/css/core_window.css?1318570950 HTTP/1.1" 200 44471
+193.34.12.132 - - [20/Oct/2011:12:46:08 +0400] "GET /scripts/fancyzoom.min.js HTTP/1.1" 200 4435
+193.34.12.132 - - [20/Oct/2011:12:46:08 +0400] "GET /bitrix/templates/kropus/components/bitrix/menu/kropus/script.js?1315557673 HTTP/1.1" 200 469
